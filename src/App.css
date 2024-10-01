@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.productPic{
+  width: 230px;
+  height: 230px;
+  object-fit: contain;
+}
+.productsContainer{
+  display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+}
+.productDiv{
+  border: 1px solid grey;
+  width: 380px;
+  height: 380px;
+}
+
